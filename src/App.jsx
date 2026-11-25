@@ -101,7 +101,7 @@ export default function App() {
   const matchedPairs = cards.filter((card) => card.matched).length / 2;
 
   return (
-    <div className="min-h-screen bg-gradient-to-br from-indigo-950 via-purple-950 to-slate-950 flex items-center justify-center p-4">
+    <div className="min-h-screen bg-gradient-to-br from-indigo-950 via-green-950 to-slate-950 flex items-center justify-center p-4">
 
       <div className="w-full max-w-2xl bg-white/10 backdrop-blur-xl border border-white/20 rounded-3xl p-6 sm:p-8 shadow-2xl">
 
